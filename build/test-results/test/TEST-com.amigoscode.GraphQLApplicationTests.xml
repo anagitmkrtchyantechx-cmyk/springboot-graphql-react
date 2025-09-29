@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amigoscode.GraphQLApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-29T15:05:55" hostname="CM-ARM-06-L" time="0.491">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.amigoscode.GraphQLApplicationTests" time="0.491"/>
+  <system-out><![CDATA[19:05:54.638 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.amigoscode.GraphQLApplicationTests]: GraphQLApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:05:54.706 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.amigoscode.GraphQLApplication for test class com.amigoscode.GraphQLApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.5)
+
+2025-09-29T19:05:54.997+04:00  INFO 96220 --- [graphqpl] [    Test worker] com.amigoscode.GraphQLApplicationTests   : Starting GraphQLApplicationTests using Java 17.0.16 with PID 96220 (started by cm-arm-06-l in /home/cm-arm-06-l/springboot-graphql-react)
+2025-09-29T19:05:54.998+04:00  INFO 96220 --- [graphqpl] [    Test worker] com.amigoscode.GraphQLApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2025-09-29T19:05:55.852+04:00  INFO 96220 --- [graphqpl] [    Test worker] com.amigoscode.GraphQLApplicationTests   : Started GraphQLApplicationTests in 1.032 seconds (process running for 1.714)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
