@@ -1,4 +1,4 @@
-bat@rem
+@rem
 @rem Copyright 2015 the original author or authors.
 @rem
 @rem Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,6 +12,8 @@ bat@rem
 @rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 @rem See the License for the specific language governing permissions and
 @rem limitations under the License.
+@rem
+@rem SPDX-License-Identifier: Apache-2.0
 @rem
 
 @if "%DEBUG%"=="" @echo off

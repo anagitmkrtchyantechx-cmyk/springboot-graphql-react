@@ -1,4 +1,4 @@
-package com.amigoscode;
+package com.anita;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
